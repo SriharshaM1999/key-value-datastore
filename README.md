@@ -1,8 +1,18 @@
 # key-value-datastore
 
-## Initially after downloading, please check the package.json file and install dependencies listed there.
+## 1.) Download the Zip file 
 
-## Then Open command prompt and type node index.js
+## 2.) Extract the folder
 
-# Happy Coding
+## 3.) Using VSCode open the downloaded folder
 
+## 4.) Check the dependencies listed in the package.json file and install them all using the following command
+         
+  #  npm install dependency_name
+  
+##  5.) After installing all the dependencies then type the following command
+  
+   # node index.js
+   
+## for performing an operation
+   
