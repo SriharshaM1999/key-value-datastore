@@ -7,9 +7,11 @@
 ## 3.) Using VSCode open the downloaded folder
 
 ## 4.) Check the dependencies listed in the package.json file and install them all using the following command
+        
+  ##  or      
          
-  #  npm install dependency_name
-  
+  ##  use this command # npm install express prompt-sync nedb       
+ 
 ##  5.) After installing all the dependencies then type the following command
   
    # node index.js
