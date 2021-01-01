@@ -29,6 +29,9 @@ console.log("Enter 4 for  Exit")
 // Code for adding the key and value
  
   function added(key,value){
+   
+         value="valuesEntered "+value;
+   
 
      value = Object.fromEntries(value.trim().split('\n').map(s => s.split(' ')))
 
